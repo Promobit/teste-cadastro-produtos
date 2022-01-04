@@ -62,7 +62,7 @@ CREATE TABLE `product_tag` (
 ### Como entregar
 
 - Colocar SQL de extração de relatório de relevancia de produtos no README.md do seu repositório.
-- Envie o link do seu repositório para [laisa.souza@promobit.com.br](mailto:laisa.souza@promobit.com.br)
+- Envie o link do seu repositório para [contato@promobit.com.br](mailto:contato@promobit.com.br)
 
 ### Orientações
 - Procure fazer um código sucinto. 
